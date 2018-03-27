@@ -12,7 +12,7 @@ window.addEventListener "devicemotion", (event) ->
 then open Prototype on any mobile device which has an Accelerometer
 
 
-![dragging along circle](https://github.com/mamezito/dragOnCircleFramerJS/blob/master/knob.gif)
+![](https://github.com/mnsvz/accelerometer-menu-framer-js/blob/master/manas_dribbble.gif)
 
 
 Live Example
